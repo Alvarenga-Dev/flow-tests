@@ -1,3 +1,5 @@
 função que abre arquivos;
 
 fechando a função que abre arquivos;
+
+correção cheia de classe como o java;
