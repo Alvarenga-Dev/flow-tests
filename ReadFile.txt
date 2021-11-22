@@ -1,1 +1,3 @@
-função que abre arquivos.
+função que abre arquivos;
+
+fechando a função que abre arquivos;
